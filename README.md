@@ -42,11 +42,18 @@ df2_new
 ```
 # OUTPUT:
 ![op](op1.png)
+
 ![op](op2.png)
+
 ![op](op3.png)
+
 ![op](op4.png)
+
 ![op](op5.png)
+
 ![op](op6.png)
+
 ![op](op7.png)
+
 # RESULT:
 The Outliers are detected and removed from the Dataset.
